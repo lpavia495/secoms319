@@ -1,0 +1,9 @@
+{
+    "fruits" :[{"name": "Strawberries", "Description": "Fresh batch of strawberries.", "Price": "$1.99"},
+               {"name": "Blueberries", "Description": "Buy a batch of blueberries.", "Price": "$1.99"},
+               {"name": "Raspberries", "Description": "Raspberries are really fresh!.", "Price": "$2.99"}
+            ],
+    "vegetables" : [{"name": "Carrots", "Description": "Carrots are an orange root that are high in vitamins.", "Price": "$3.99"},
+                    {"name": "Peas", "Description": "Peas are small, round, green, and delicious.", "Price": "$2.99"},
+                    {"name": "Corn", "Description": "Bell peppers come in three varieties: red, green, and yellow.", "Price": "$4.99"}]
+}
